@@ -28,7 +28,8 @@
 
 ## Макеты
 ![1](https://github.com/user-attachments/assets/c54224a2-f8dd-4614-9ac7-6001c51172e5)
-![2](https://github.com/user-attachments/assets/2b84cbb5-feab-4906-a6ac-b210bd643ec5)
+![2](https://github.com/user-attachments/assets/a20b292a-d3ae-4dcf-9eb1-1fa0c81ed511)
+
 
 
 ## Как выполнить задание

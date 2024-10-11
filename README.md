@@ -27,8 +27,10 @@
 - тестирование: как можно протестировать свой код;
 
 ## Макеты
-![1](https://github.com/user-attachments/assets/c54224a2-f8dd-4614-9ac7-6001c51172e5)
-![2](https://github.com/user-attachments/assets/a20b292a-d3ae-4dcf-9eb1-1fa0c81ed511)
+![1](https://github.com/user-attachments/assets/34bbdc50-d59b-4d3e-8fea-954e500ce73c)
+![2](https://github.com/user-attachments/assets/7ab4866f-c341-4cef-8703-69b549091981)
+
+
 
 
 
